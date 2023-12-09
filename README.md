@@ -1,4 +1,4 @@
-# MantineDatePickerCardDemo
+# Mantine Date Picker Card Demo
 
 ## Description
 
@@ -11,7 +11,7 @@ Additionally, clicking the "BoxMultiple" icon will display a calendar modal wher
 
 ## Demo
 
-https://github.com/KeachT/mantine-date-picker-card-demo/assets/62630204/544b4062-29be-4e49-9af4-37ad4ab398cf
+https://github.com/KeachT/mantine-date-picker-card-demo/assets/62630204/d0f828a7-d595-4348-bb49-5182026055fc
 
 ## Author
 KeachT
