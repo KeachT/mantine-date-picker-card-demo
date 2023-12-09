@@ -31,7 +31,7 @@ export function DatePickerCard() {
       <Card radius="lg" withBorder>
         <Grid align="baseline" justify="center" mt={2} mb={10}>
           <Text weight={100} size="md">
-            Current Day:
+            Current Date:
           </Text>
           <Text weight={200} size="xl" ml={8}>
             {currentDate?.toLocaleDateString()}
